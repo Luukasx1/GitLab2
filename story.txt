@@ -1,4 +1,9 @@
 Oto nasza wspolna historia
 
+<<<<<<< HEAD
 
 Za gorami, za lasami...
+=======
+Mial pod soba dwoch ludzi - Szeregowy Janusz i
+szeregowy Sebastian.
+>>>>>>> add-new-line2
