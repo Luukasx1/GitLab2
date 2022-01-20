@@ -1,5 +1,6 @@
 Oto nasza wspolna historia
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 <<<<<<< HEAD
 
@@ -11,3 +12,6 @@ szeregowy Sebastian.
 =======
 Żył sobie Kapitan Bomba
 >>>>>>> origin/add-new-line1
+=======
+Razem zabijali kosmitów
+>>>>>>> origin/add-new-line3
