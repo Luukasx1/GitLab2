@@ -1,4 +1,5 @@
 Oto nasza wspolna historia
+<<<<<<< HEAD
 
 <<<<<<< HEAD
 
@@ -7,3 +8,6 @@ Za gorami, za lasami...
 Mial pod soba dwoch ludzi - Szeregowy Janusz i
 szeregowy Sebastian.
 >>>>>>> add-new-line2
+=======
+Żył sobie Kapitan Bomba
+>>>>>>> origin/add-new-line1
