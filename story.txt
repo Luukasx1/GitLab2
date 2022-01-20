@@ -1,6 +1,7 @@
 Oto nasza wspolna historia
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 <<<<<<< HEAD
 
@@ -15,3 +16,6 @@ szeregowy Sebastian.
 =======
 Razem zabijali kosmitów
 >>>>>>> origin/add-new-line3
+=======
+I chcieli pokonać Sułtana Kosmitów
+>>>>>>> origin/add-new-line5
